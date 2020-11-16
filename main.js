@@ -1,4 +1,3 @@
-
 class UndesiredDetector {
     constructor(user, key){
         // Sightengine API key user
@@ -7,18 +6,20 @@ class UndesiredDetector {
         // Sightengine API key secret
         this.key = key;
 
-        // Login into Sightengine with the above credentials
-        const sightengine = require("sightengine")(key, user);
+        // Login into Sightengine with the gived credentials
+        const sightengine = require("sightengine")(user, key);
 
         // Set the client
         this.client = sightengine;
     };
 
-    localImage(){
+    async localImage(){
         
     };
 
-    urlImage(){
-        
+    async urlImage(url, ...models){
+        const check = await this.client.check(...models).set_url(url);
+
+
     };
 }

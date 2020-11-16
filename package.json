@@ -15,15 +15,13 @@
     "analizador",
     "imágenes",
     "detector",
-    "detector-nsfw"
+    "detector-nsfw",
+    "detector-contenido-inapropiado"
   ],
   "author": "Felimir",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Felimir/undesired-detector/issues"
   },
-  "homepage": "https://github.com/Felimir/undesired-detector#readme",
-  "devDependencies": {
-    "standard-version": "^9.0.0"
-  }
+  "homepage": "https://github.com/Felimir/undesired-detector#readme"
 }
