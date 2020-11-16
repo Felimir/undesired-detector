@@ -1,0 +1,25 @@
+{
+  "name": "undesired-detector",
+  "version": "0.0.1",
+  "description": "Analizador y detector de imágenes indeseadas e inapropiadas.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felimir/undesired-detector.git"
+  },
+  "keywords": [
+    "analizador",
+    "imágenes",
+    "detector",
+    "detector-nsfw"
+  ],
+  "author": "Felimir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Felimir/undesired-detector/issues"
+  },
+  "homepage": "https://github.com/Felimir/undesired-detector#readme"
+}
