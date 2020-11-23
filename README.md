@@ -1,6 +1,6 @@
 # undesired-detector
 Analizador y detector de imágenes indeseadas e inapropiadas.
 
-![Discord](https://img.shields.io/discord/779745434146177044?color=black&label=Discord&logo=discord&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/779745434146177044?color=black&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/DgJf8TB6aG)
 
 # EN DESARROLLO
